@@ -10,7 +10,7 @@ function MovieList() {
         rating={8.8}
         available={true}
         popular={true}
-        genre="Sci-Fi" {/* <--- הוספת ה-Prop כאן */}
+        genre="Sci-Fi" 
       />
       <MovieCard
         title="Toy Story"
